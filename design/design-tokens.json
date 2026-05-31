@@ -1,0 +1,80 @@
+{
+  "version": "1.0.0",
+  "tokens": {
+    "colour": {
+      "charcoal": { "value": "#1A1A1A", "role": "primaryText" },
+      "teal": { "value": "#0099A8", "role": "innovationHighlight" },
+      "electricBlue": { "value": "#0066CC", "role": "sensingAccent" },
+      "white": { "value": "#FFFFFF", "role": "background" }
+    },
+    "typography": {
+      "fontFamily": {
+        "primary": {
+          "value": [
+            "Inter",
+            "Söhne",
+            "Neue Haas Grotesk",
+            "Montserrat"
+          ]
+        }
+      },
+      "fontWeight": {
+        "regular": { "value": 400 },
+        "medium": { "value": 500 },
+        "semibold": { "value": 600 }
+      },
+      "lineHeight": {
+        "default": { "value": 1.5 }
+      },
+      "tracking": {
+        "expanded": { "value": "0.5px" },
+        "normal": { "value": "0px" }
+      }
+    },
+    "spacing": {
+      "xxs": { "value": "4px" },
+      "xs": { "value": "8px" },
+      "sm": { "value": "12px" },
+      "md": { "value": "16px" },
+      "lg": { "value": "24px" },
+      "xl": { "value": "32px" },
+      "xxl": { "value": "48px" }
+    },
+    "radius": {
+      "none": { "value": "0px" },
+      "sm": { "value": "2px" },
+      "md": { "value": "4px" }
+    },
+    "elevation": {
+      "none": { "value": "0" },
+      "low": { "value": "0px 1px 2px rgba(0,0,0,0.04)" },
+      "medium": { "value": "0px 2px 4px rgba(0,0,0,0.06)" }
+    },
+    "layout": {
+      "containerWidth": {
+        "sm": { "value": "640px" },
+        "md": { "value": "960px" },
+        "lg": { "value": "1200px" }
+      },
+      "grid": {
+        "columns": { "value": 12 },
+        "gutter": { "value": "24px" }
+      }
+    },
+    "components": {
+      "button": {
+        "padding": { "value": "12px 20px" },
+        "radius": { "value": "4px" },
+        "fontWeight": { "value": 500 },
+        "background": { "value": "{colour.teal.value}" },
+        "textColour": { "value": "{colour.white.value}" }
+      },
+      "card": {
+        "padding": { "value": "24px" },
+        "radius": { "value": "4px" },
+        "background": { "value": "{colour.white.value}" },
+        "shadow": { "value": "{elevation.low.value}" }
+      }
+    }
+  }
+}
