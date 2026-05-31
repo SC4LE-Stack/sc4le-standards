@@ -1,0 +1,99 @@
+{
+  "version": "1.0.0",
+  "schema": {
+    "service": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "summary",
+        "valueProposition",
+        "outcomes",
+        "howItWorks",
+        "audience",
+        "evidence",
+        "cta"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique service identifier (kebab-case)."
+        },
+
+        "name": {
+          "type": "string",
+          "description": "Human-readable service name."
+        },
+
+        "summary": {
+          "type": "string",
+          "description": "Short 1–2 sentence overview of the service."
+        },
+
+        "valueProposition": {
+          "type": "string",
+          "description": "Primary value proposition for this service, aligned with SC4LE messaging."
+        },
+
+        "outcomes": {
+          "type": "array",
+          "description": "List of outcomes the service delivers.",
+          "items": {
+            "type": "string"
+          }
+        },
+
+        "howItWorks": {
+          "type": "array",
+          "description": "Step-by-step description of how the service is delivered.",
+          "items": {
+            "type": "object",
+            "required": ["step", "description"],
+            "properties": {
+              "step": { "type": "string" },
+              "description": { "type": "string" }
+            }
+          }
+        },
+
+        "audience": {
+          "type": "array",
+          "description": "Target customer segments for the service.",
+          "items": {
+            "type": "string"
+          }
+        },
+
+        "evidence": {
+          "type": "array",
+          "description": "Proof points grounded in SC4LE Workspace Pack.",
+          "items": {
+            "type": "string"
+          }
+        },
+
+        "cta": {
+          "type": "object",
+          "required": ["label", "url"],
+          "properties": {
+            "label": { "type": "string" },
+            "url": { "type": "string" }
+          }
+        },
+
+        "metadata": {
+          "type": "object",
+          "description": "Optional metadata for SEO or internal use.",
+          "properties": {
+            "keywords": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "category": { "type": "string" },
+            "icon": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}
