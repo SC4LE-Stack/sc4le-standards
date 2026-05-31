@@ -1,0 +1,62 @@
+{
+  "version": "1.0.0",
+  "palette": {
+    "charcoal": {
+      "hex": "#1A1A1A",
+      "role": [
+        "primaryText",
+        "structure",
+        "governance"
+      ],
+      "description": "Used for body text, structural elements, and governance-related components."
+    },
+    "teal": {
+      "hex": "#0099A8",
+      "role": [
+        "innovation",
+        "enablement",
+        "highlights"
+      ],
+      "description": "Primary highlight colour representing innovation, enablement, and clarity."
+    },
+    "electricBlue": {
+      "hex": "#0066CC",
+      "role": [
+        "momentum",
+        "sensing",
+        "aiReadiness"
+      ],
+      "description": "Used for sensing, AI-related elements, and dynamic accents."
+    },
+    "white": {
+      "hex": "#FFFFFF",
+      "role": [
+        "background",
+        "clarity",
+        "space"
+      ],
+      "description": "Primary background colour providing clarity, contrast, and cognitive ease."
+    }
+  },
+  "rules": {
+    "gradients": {
+      "usage": "Gradients must be subtle and used sparingly.",
+      "appliedTo": [
+        "spiralArcs",
+        "numeral4"
+      ]
+    },
+    "backgrounds": {
+      "preferred": [
+        "white",
+        "charcoal",
+        "deepTeal"
+      ],
+      "avoid": [
+        "busyImages",
+        "lowContrastColours",
+        "patternedBackgrounds"
+      ]
+    }
+  }
+}
