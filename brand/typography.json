@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "typefaces": {
+    "primary": [
+      "Inter",
+      "Söhne",
+      "Neue Haas Grotesk",
+      "Montserrat"
+    ]
+  },
+  "rules": {
+    "brandName": {
+      "text": "SC4LE",
+      "case": "uppercase",
+      "weight": "600",
+      "tracking": "slightlyExpanded",
+      "usage": "Used for the SC4LE wordmark and brand identifiers."
+    },
+    "headings": {
+      "weight": "600",
+      "style": "cleanMinimal",
+      "tracking": "slightlyExpanded",
+      "colour": "charcoal",
+      "description": "Headings must be modern, minimal, and geometric, reflecting the SC4LE spiral aesthetic."
+    },
+    "subheadings": {
+      "weight": "500",
+      "style": "structured",
+      "colour": "charcoal",
+      "description": "Subheadings provide hierarchy and clarity without visual noise."
+    },
+    "body": {
+      "weight": "400",
+      "colour": "charcoal",
+      "lineHeight": "1.5",
+      "description": "Body text must prioritise readability and cognitive ease."
+    },
+    "numerical": {
+      "weight": "500",
+      "tracking": "normal",
+      "description": "Used for data, metrics, and structured information."
+    }
+  },
+  "accessibility": {
+    "minimumContrastRatio": "4.5:1",
+    "notes": "All text must meet WCAG AA contrast requirements when placed on SC4LE brand colours."
+  }
+}
