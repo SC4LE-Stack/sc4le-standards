@@ -1,0 +1,135 @@
+{
+  "version": "1.0.0",
+  "schema": {
+    "page": {
+      "type": "object",
+      "required": [
+        "template",
+        "meta",
+        "hero",
+        "sections"
+      ],
+      "properties": {
+        "template": {
+          "type": "string",
+          "enum": [
+            "homepage",
+            "service",
+            "operatingModel",
+            "about",
+            "contact",
+            "blog"
+          ]
+        },
+
+        "meta": {
+          "type": "object",
+          "required": ["title", "description"],
+          "properties": {
+            "title": { "type": "string" },
+            "description": { "type": "string" },
+            "canonicalUrl": { "type": "string" },
+            "ogImage": { "type": "string" }
+          }
+        },
+
+        "hero": {
+          "type": "object",
+          "required": ["headline", "subheadline"],
+          "properties": {
+            "headline": { "type": "string" },
+            "subheadline": { "type": "string" },
+            "cta": {
+              "type": "object",
+              "properties": {
+                "label": { "type": "string" },
+                "url": { "type": "string" }
+              }
+            },
+            "alignment": {
+              "type": "string",
+              "enum": ["left", "center"]
+            }
+          }
+        },
+
+        "sections": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["type"],
+            "properties": {
+              "type": {
+                "type": "string",
+                "enum": [
+                  "textBlock",
+                  "featureGrid",
+                  "serviceGrid",
+                  "operatingModelPillars",
+                  "valueProps",
+                  "proofPoints",
+                  "caseForChange",
+                  "contactForm",
+                  "ctaBanner",
+                  "blogContent"
+                ]
+              },
+
+              "content": {
+                "type": "object",
+                "properties": {
+                  "title": { "type": "string" },
+                  "body": { "type": "string" },
+                  "items": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "label": { "type": "string" },
+                        "description": { "type": "string" },
+                        "icon": { "type": "string" },
+                        "cta": {
+                          "type": "object",
+                          "properties": {
+                            "label": { "type": "string" },
+                            "url": { "type": "string" }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+
+              "layout": {
+                "type": "object",
+                "properties": {
+                  "background": {
+                    "type": "string",
+                    "enum": [
+                      "white",
+                      "charcoal",
+                      "teal",
+                      "electricBlue"
+                    ]
+                  },
+                  "padding": {
+                    "type": "string",
+                    "enum": [
+                      "none",
+                      "sm",
+                      "md",
+                      "lg",
+                      "xl",
+                      "xxl"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
