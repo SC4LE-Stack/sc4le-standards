@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "schema": {
+    "valueProposition": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "headline",
+        "description",
+        "alignment",
+        "proofPoints"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the value proposition (kebab-case)."
+        },
+
+        "type": {
+          "type": "string",
+          "enum": [
+            "primary",
+            "secondary"
+          ],
+          "description": "Primary = core SC4LE value proposition; Secondary = supporting propositions."
+        },
+
+        "headline": {
+          "type": "string",
+          "description": "Short, punchy headline expressing the value proposition."
+        },
+
+        "description": {
+          "type": "string",
+          "description": "Expanded explanation of the value proposition, aligned with SC4LE tone of voice."
+        },
+
+        "alignment": {
+          "type": "object",
+          "description": "Links the value proposition to SC4LE operating model components.",
+          "properties": {
+            "principles": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "governance": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "sensing": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "flow": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "capability": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        },
+
+        "proofPoints": {
+          "type": "array",
+          "description": "Evidence supporting the value proposition, grounded in SC4LE Workspace Pack.",
+          "items": {
+            "type": "string"
+          }
+        },
+
+        "metadata": {
+          "type": "object",
+          "description": "Optional metadata for SEO, categorisation, or internal use.",
+          "properties": {
+            "keywords": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "category": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}
