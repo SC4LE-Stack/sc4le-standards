@@ -1,165 +1,170 @@
 ---
-title: Strategy Activation & Alignment Workshops
+title: Operating Model Health Checks & Readiness Audits
 version: 2.0.0
 status: canonical
-service-category: advisory-and-leadership
+service-category: flow-performance-and-capability
 last-updated: 2026-06-03
 schema-version: 1.0.0
 ---
-# Strategy Activation & Alignment Workshops
+# Operating Model Health Checks & Readiness Audits
 
 ## 1. Purpose
-Strategy Activation & Alignment Workshops are high‑impact, executive‑level facilitation sessions that translate organisational strategy into aligned, actionable priorities. These workshops bring senior leaders together to create clarity, cohesion and commitment around strategic direction, governance, value‑stream alignment and decision‑making.
+Operating Model Health Checks & Readiness Audits provide a rapid, evidence‑based assessment of an organisation’s ability to execute strategy, deliver change and operate effectively. This service identifies structural, behavioural and governance bottlenecks that impede flow, decision‑making and value delivery.
 
-The workshops ensure that strategy is not just understood — but activated, owned and operationalised across the leadership team.
+The output is a board‑ready diagnostic that gives leaders a clear, objective view of their current state and a prioritised roadmap for improvement.
 
 ## 2. Scope
 This service includes:
-- Pre‑workshop discovery and leadership interviews  
-- A facilitated 1–2 day executive workshop  
-- Strategy-to-execution translation  
-- Prioritisation and value‑stream alignment  
-- Governance and decision‑making design  
-- Post‑workshop summary and recommendations  
+- Executive interviews and stakeholder surveys  
+- Assessment of governance, decision pathways and ownership  
+- Analysis of flow, cognitive load and delivery friction  
+- Review of strategy alignment and prioritisation  
+- Maturity scoring across SC4LE dimensions  
+- A board‑ready diagnostic report and recommendations  
 
 This service does not include:
-- Long-term programme delivery  
-- Detailed operating model design  
-- Implementation of governance structures  
+- Implementation of recommendations  
+- Full operating model redesign  
+- Long-term coaching or enablement  
 
 ## 3. Context
-Across industries, research from MIT Sloan, Corporate Rebels and the OECD highlights a consistent pattern: organisations often have a strategy, but lack alignment. Leaders interpret priorities differently, governance becomes fragmented, and teams experience conflicting directives.
+Across industries, organisations struggle with hidden friction: unclear governance, inconsistent decision-making, duplicated effort and misaligned priorities. Research from MIT Sloan, OECD and NIST highlights:
 
-SC4LE’s diagnostic insights reinforce this: misalignment at the leadership level is one of the strongest predictors of delivery friction, decision latency and transformation regression.
+- Decision latency as a major barrier to transformation  
+- High cognitive load as a driver of poor decision quality  
+- Fragmented governance as a root cause of delivery friction  
+- Misaligned value streams as a source of rework and delay  
 
-Strategy Activation Workshops solve this by creating a shared strategic narrative, aligning leaders around value streams and establishing the governance rhythms required for coordinated execution.
+SC4LE’s diagnostic patterns reinforce these findings: most organisations lack a clear, evidence‑based understanding of how their operating model actually performs.
+
+A Health Check provides that clarity.
 
 ## 4. Core Content
 
 ### 4.1 What This Service Delivers
-- A unified, shared understanding of strategic priorities  
-- Translation of strategy into value‑stream‑aligned objectives  
-- Clear governance pathways and decision forums  
-- Prioritised initiatives and sequencing  
-- Leadership alignment and behavioural commitments  
-- A post‑workshop activation plan  
+- A clear, evidence‑based view of operating model health  
+- Identification of governance bottlenecks and decision latency  
+- Assessment of flow, cognitive load and delivery friction  
+- Maturity scoring across SC4LE dimensions  
+- A prioritised roadmap for improvement  
+- Executive‑ready insights and recommendations  
 
 ### 4.2 Why Organisations Need It
-- Strategy is often too abstract to guide execution  
-- Leaders interpret priorities differently  
+- Leaders lack visibility into systemic friction  
 - Governance is unclear or inconsistently applied  
-- Value streams are not aligned to strategic outcomes  
-- Teams lack clarity on what matters most  
+- Teams experience high cognitive load and decision fatigue  
+- Prioritisation becomes political rather than strategic  
+- Delivery slows due to hidden dependencies and rework  
 
-This workshop creates the alignment required for effective execution.
+A Health Check provides the insight required to take decisive action.
 
 ## 5. Principles
-- **Alignment before execution**: Strategy must be shared before it can be delivered.  
-- **Value‑stream orientation**: Priorities must align to customer and organisational value.  
-- **Evidence‑led facilitation**: Insights from SC4LE sensing and diagnostics inform the workshop.  
-- **Co‑creation**: Leaders build the plan together to ensure ownership.  
-- **Enablement-first**: The workshop builds capability, not dependency.  
+- **Evidence over opinion**: Insights grounded in data, not anecdotes.  
+- **Federated alignment**: Assess both central and local governance.  
+- **Value‑stream orientation**: Evaluate flow across the end‑to‑end system.  
+- **Enablement-first**: Recommendations build capability, not dependency.  
+- **Transparency**: Findings are clear, actionable and non‑political.  
 
 ## 6. Processes / Models / Frameworks
 
-### 6.1 Workshop Structure
-**Pre‑work (1–2 weeks):**
-- Leadership interviews  
-- Strategy review  
-- Sensing insights  
-- Alignment heatmap  
+### 6.1 Diagnostic Structure
+**Phase 1: Discovery (Week 1)**  
+- Executive interviews  
+- Stakeholder surveys  
+- Document and artefact review  
 
-**Workshop Day 1:**
-- Strategic narrative alignment  
-- Value‑stream mapping  
-- Prioritisation and sequencing  
-- Governance design  
+**Phase 2: Analysis (Week 2)**  
+- Governance mapping  
+- Flow and dependency analysis  
+- Cognitive load assessment  
+- Maturity scoring  
 
-**Workshop Day 2 (optional):**
-- Decision pathways  
-- Leadership behaviours  
-- Activation plan  
-- Commitments and next steps  
+**Phase 3: Reporting (Week 3–4)**  
+- Insights synthesis  
+- Recommendations  
+- Roadmap creation  
+- Executive playback  
 
 ### 6.2 SC4LE Mechanisms Used
-- Principle-driven alignment  
-- Federated governance pathways  
-- SC4LE strategic narrative  
-- AI-enabled sensing insights  
-- Enablement cycles  
-- Decision intelligence frameworks  
+- Federated governance assessment  
+- Principle-driven alignment review  
+- AI-enabled sensing patterns  
+- Flow diagnostics  
+- Cognitive load mapping  
+- Decision pathway analysis  
 
 ## 7. Roles & Responsibilities
 
-### SC4LE Facilitator(s)
-- Lead the workshop  
-- Provide strategic insight  
-- Facilitate alignment  
-- Capture decisions and commitments  
-- Produce the activation summary  
+### SC4LE Diagnostic Lead
+- Conducts interviews and analysis  
+- Synthesises insights  
+- Facilitates executive playback  
+- Produces the diagnostic report  
 
-### Client Leadership Team
-- Participate fully in the workshop  
-- Align on priorities and behaviours  
-- Commit to governance pathways  
-- Own the activation plan  
+### Client Leadership
+- Provides access to stakeholders  
+- Participates in interviews  
+- Validates findings  
+- Owns the improvement roadmap  
 
 ## 8. Deliverables
-- Pre‑workshop insights pack  
-- Leadership alignment heatmap  
-- Value‑stream‑aligned priorities  
-- Governance and decision pathways  
-- Activation plan (30/60/90 days)  
-- Workshop summary and recommendations  
+- Executive summary  
+- Maturity scorecard  
+- Governance and decision pathway map  
+- Flow and dependency analysis  
+- Cognitive load assessment  
+- Prioritised recommendations  
+- 30/60/90‑day roadmap  
 
 ## 9. Metrics & Indicators
-- Leadership alignment score  
-- Reduction in conflicting priorities  
-- Increased clarity of ownership  
-- Improved decision velocity  
-- Adoption of governance rhythms  
-- Improved flow across value streams  
+- Reduction in decision latency  
+- Improved governance clarity  
+- Increased flow efficiency  
+- Reduction in rework and duplication  
+- Improved leadership alignment  
+- Lower cognitive load across teams  
 
 ## 10. Risks & Considerations
-- Leadership disengagement  
-- Pre-existing political tensions  
-- Lack of clarity in strategy  
-- Overly ambitious prioritisation  
+- Limited access to stakeholders  
+- Political sensitivity around findings  
+- Misalignment between leadership and delivery teams  
+- Overly ambitious recommendations  
 
 Mitigations:
-- Pre‑work interviews to surface tensions  
-- Neutral, evidence-led facilitation  
-- Clear prioritisation frameworks  
-- Behavioural commitments  
+- Clear engagement framing  
+- Neutral, evidence-led reporting  
+- Prioritised, realistic roadmap  
+- Leadership alignment session  
 
 ## 11. Cross-References
-- SC4LE Narrative Architecture  
-- SC4LE Value Proposition Framework  
+- SC4LE Operating Model Overview  
 - Federated Governance System Design  
-- Leadership Decision Coaching  
-- Operating Model Health Checks  
+- Flow Diagnostics & Waste Reduction  
+- Cognitive Load Assessment  
+- SC4LE Maturity Assessment  
 - SC4LE Evidence Base  
 
 ## 12. Evidence Base
 This service is grounded in:
 - Systems thinking (Meadows, Senge)  
-- Organisational alignment research (MIT Sloan)  
-- Value‑stream alignment literature  
-- OECD governance research  
+- Cognitive load theory (Sweller)  
+- Organisational design and governance research (OECD, MIT Sloan)  
+- Flow and dependency mapping literature  
 - SC4LE diagnostic patterns  
 
 See `/foundations/evidence-base.md` for full references.
 
 ## 13. Example Use Cases
-- A financial services executive team needs to align on transformation priorities  
-- A retail organisation requires value‑stream mapping to support digital strategy  
-- A public sector leadership group needs governance clarity across directorates  
+- A bank preparing for a major transformation needs a readiness assessment  
+- A public sector organisation requires clarity on governance and decision flow  
+- A retail company wants to identify delivery friction before scaling AI capability  
 
 ## 14. Maturity Indicators
-- Leaders articulate strategy consistently  
+- Leaders understand systemic friction  
 - Governance becomes predictable and principle-driven  
-- Priorities align to value streams  
-- Teams experience fewer conflicting directives  
+- Flow improves across value streams  
+- Teams experience reduced cognitive load  
+- Organisation is ready for operating model redesign  
 
 ## 15. Version History
 - **2.0.0** – Enhanced external-facing version with evidence base integration (2026-06-03)  
