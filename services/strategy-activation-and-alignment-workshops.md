@@ -1,6 +1,6 @@
 ---
 title: Strategy Activation & Alignment Workshops
-version: 1.0.0
+version: 2.0.0
 status: canonical
 service-category: advisory-and-leadership
 last-updated: 2026-06-03
@@ -9,26 +9,30 @@ schema-version: 1.0.0
 # Strategy Activation & Alignment Workshops
 
 ## 1. Purpose
-Strategy Activation & Alignment Workshops are high‑impact, executive‑level facilitation sessions designed to translate organisational strategy into aligned, actionable priorities. These workshops bring senior leaders together to create clarity, cohesion and commitment around strategic direction, governance, and value‑stream‑aligned execution.
+Strategy Activation & Alignment Workshops are high‑impact, executive‑level facilitation sessions that translate organisational strategy into aligned, actionable priorities. These workshops bring senior leaders together to create clarity, cohesion and commitment around strategic direction, governance, value‑stream alignment and decision‑making.
+
+The workshops ensure that strategy is not just understood — but activated, owned and operationalised across the leadership team.
 
 ## 2. Scope
 This service includes:
-- Pre‑workshop discovery and leadership interviews
-- A facilitated 1–2 day executive workshop
-- Strategy-to-execution translation
-- Prioritisation and value‑stream alignment
-- Governance and decision‑making design
-- Post‑workshop summary and recommendations
+- Pre‑workshop discovery and leadership interviews  
+- A facilitated 1–2 day executive workshop  
+- Strategy-to-execution translation  
+- Prioritisation and value‑stream alignment  
+- Governance and decision‑making design  
+- Post‑workshop summary and recommendations  
 
 This service does not include:
-- Long-term programme delivery
-- Hands-on implementation of governance structures
-- Detailed operating model design (covered in a separate service)
+- Long-term programme delivery  
+- Detailed operating model design  
+- Implementation of governance structures  
 
 ## 3. Context
-Many organisations have a strategy, but few have alignment. Leadership teams often operate in functional silos, interpret strategy differently, or prioritise conflicting initiatives. This misalignment creates decision latency, governance friction, and inconsistent execution.
+Across industries, research from MIT Sloan, Corporate Rebels and the OECD highlights a consistent pattern: organisations often have a strategy, but lack alignment. Leaders interpret priorities differently, governance becomes fragmented, and teams experience conflicting directives.
 
-These workshops solve that problem by creating a shared understanding of strategy, aligning leaders around value streams, and establishing the governance rhythms required for coordinated execution.
+SC4LE’s diagnostic insights reinforce this: misalignment at the leadership level is one of the strongest predictors of delivery friction, decision latency and transformation regression.
+
+Strategy Activation Workshops solve this by creating a shared strategic narrative, aligning leaders around value streams and establishing the governance rhythms required for coordinated execution.
 
 ## 4. Core Content
 
@@ -43,9 +47,11 @@ These workshops solve that problem by creating a shared understanding of strateg
 ### 4.2 Why Organisations Need It
 - Strategy is often too abstract to guide execution  
 - Leaders interpret priorities differently  
-- Governance is fragmented or unclear  
+- Governance is unclear or inconsistently applied  
 - Value streams are not aligned to strategic outcomes  
 - Teams lack clarity on what matters most  
+
+This workshop creates the alignment required for effective execution.
 
 ## 5. Principles
 - **Alignment before execution**: Strategy must be shared before it can be delivered.  
@@ -132,12 +138,17 @@ Mitigations:
 - Federated Governance System Design  
 - Leadership Decision Coaching  
 - Operating Model Health Checks  
+- SC4LE Evidence Base  
 
 ## 12. Evidence Base
-- Research on leadership alignment and strategic coherence  
-- SC4LE sensing patterns  
-- Value‑stream alignment frameworks  
-- Decision intelligence and governance models  
+This service is grounded in:
+- Systems thinking (Meadows, Senge)  
+- Organisational alignment research (MIT Sloan)  
+- Value‑stream alignment literature  
+- OECD governance research  
+- SC4LE diagnostic patterns  
+
+See `/foundations/evidence-base.md` for full references.
 
 ## 13. Example Use Cases
 - A financial services executive team needs to align on transformation priorities  
@@ -151,4 +162,5 @@ Mitigations:
 - Teams experience fewer conflicting directives  
 
 ## 15. Version History
-- **1.0.0** – Initial canonical version created (2026-06-03)
+- **2.0.0** – Enhanced external-facing version with evidence base integration (2026-06-03)  
+- **1.0.0** – Initial canonical version  
