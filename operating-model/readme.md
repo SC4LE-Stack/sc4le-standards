@@ -17,7 +17,7 @@ It is the core of the SC4LE Standard and represents the golden source for:
 - AI‑enabled feedback loops
 
 <p align="center">
-  <img src="./assets/sc4le-operating-model.png" width="900" alt="SC4LE Operating Model">
+  <img src="./assets/SC4LE Op Model-core enablement cycle.png" width="900" alt="SC4LE Operating Model">
 </p>
 
 This folder contains the **authoritative, version‑controlled definition** of the SC4LE Operating Model.
