@@ -1,4 +1,4 @@
-# SC4LE Operating Model  
+# SC4LE Operating Modelindex 
 ### Canonical Overview of the SC4LE Standard  
 © 2026 SC4LE Limited
 
