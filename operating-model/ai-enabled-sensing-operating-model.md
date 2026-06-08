@@ -1,4 +1,4 @@
-# SC4LE AI‑Enabled Sensing
+# SC4LE AI‑Enabled Sensing Op Model
 
 AI‑Enabled Sensing is a foundational component of the SC4LE operating model.  
 It provides early insight into flow, risk, governance gaps, and systemic bottlenecks, enabling organisations to sense, decide, and adapt with clarity and speed.
