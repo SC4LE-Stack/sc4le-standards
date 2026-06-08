@@ -15,7 +15,7 @@ It combines visual maturity indicators, governance actions, and enablement prior
 ## 1. Visual Overview
 
 <p align="center">
-  <img src="./images/sc4le-maturity-radar.png" width="600" alt="SC4LE Maturity Radar">
+  <img src="/maturity-model/assets/SC4LE Maturity Radar.png" width="600" alt="SC4LE Maturity Radar">
 </p>
 
 ---
