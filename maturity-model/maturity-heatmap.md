@@ -1,6 +1,6 @@
 # 📊 **SC4LE Maturity Heatmap 
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ff38704a-9705-4ad2-8dcf-2c9315850654" />
+<img width="1536" height="1024" alt="image" src="/maturity-model/assets/SC4LE Maturity Radar.png" />
 
 ---
 
