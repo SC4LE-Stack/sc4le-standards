@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "tasks": [
+    {
+      "label": "Generate File Tree (Markdown)",
+      "type": "shell",
+      "command": "echo '```' > filetree.md && tree -a -I '.git' >> filetree.md && echo '```' >> filetree.md",
+      "problemMatcher": [],
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      }
+    }
+  ]
+}
