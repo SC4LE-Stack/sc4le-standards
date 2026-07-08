@@ -1,141 +1,163 @@
 ---
 schema: sc4le-meta-v1
-version: 1.0.0
-type: meta-index
+version: 1.1.0
+type: documentation
 status: approved
 owner: SC4LE Limited
 updated: 2026-06-16
 tags:
+  - meta
   - governance
-  - standards
   - index
+  - sc4le
 ---
 
 # SC4LE Meta Layer  
-### Governance Architecture, Structure & File Index  
+### Governed System for Standards, Messaging, Templates, Website Structure, and Publishing  
 © 2026 SC4LE Limited
 
 ---
 
 ## 1. Purpose of the Meta Layer
 
-The **meta layer** defines how the SC4LE Standard, website, brand, messaging, diagrams, templates, and content are governed, maintained, and evolved.
+The SC4LE meta layer defines the **governance system** that ensures all SC4LE artefacts are:
 
-It ensures SC4LE remains:
-
-- coherent  
+- consistent  
 - principle‑aligned  
+- structurally coherent  
 - professionally governed  
-- AI‑ready  
-- scalable  
-- consistent across all touchpoints  
+- easy to maintain  
+- ready for external publication  
 
-The meta layer is the **operating system** for the SC4LE Standards Repository.
+It governs how SC4LE content, messaging, brand, diagrams, templates, and website structure are created, reviewed, approved, versioned, and published.
 
----
-
-## 2. Meta Folder Structure
-
-```
-/meta/
-   README.md
-
-   governance-standard.md
-   governance-content.md
-   governance-diagrams.md
-   governance-brand.md
-   governance-messaging.md
-   governance-templates.md
-
-   website-content-matrix.md
-   page-templates.md
-
-   operating-model.md
-   shared-principles.md
-```
-
-Each file has a specific purpose and is governed through the SC4LE Standard Governance Model.
+This README provides a **single, authoritative overview** of the entire meta layer.
 
 ---
 
-## 3. Governance Files (How SC4LE Is Governed)
+## 2. Meta‑Layer Architecture Overview
 
-### **3.1 governance-standard.md**  
-Defines how the SC4LE Standard itself is governed, maintained, and evolved.
+The meta layer is organised into **four governance domains**, each containing governed files:
 
-### **3.2 governance-content.md**  
-Defines how all SC4LE content is created, reviewed, approved, and versioned.
+### **2.1 Content Governance Domain**
+Governs written content, structure, templates, and publishing.
 
-### **3.3 governance-diagrams.md**  
-Defines how SC4LE diagrams are created, governed, and protected.
+- `governance-content.md`  
+- `page-templates.md`  
+- `website-content-matrix.md`  
+- `website-publishing-playbook.md`  
 
-### **3.4 governance-brand.md**  
-Defines how the SC4LE brand identity is governed and protected.
+### **2.2 Messaging Governance Domain**
+Governs naming, terminology, tone of voice, and value propositions.
 
-### **3.5 governance-messaging.md**  
-Defines how SC4LE messaging, value propositions, and naming conventions are governed.
+- `governance-messaging.md`  
+- `messaging-matrix.md`  
 
-### **3.6 governance-templates.md**  
-Defines how templates are created, governed, and versioned.
+### **2.3 Brand & Visual Governance Domain**
+Governs visual identity, diagrams, and styling.
 
----
+- `governance-brand.md`  
+- `governance-diagrams.md`  
 
-## 4. Website & Template Files
+### **2.4 Structural Governance Domain**
+Governs templates, schemas, IA, and the SC4LE Standard itself.
 
-### **4.1 website-content-matrix.md**  
-Defines the SC4LE website information architecture, page types, content blocks, and metadata requirements.
-
-### **4.2 page-templates.md**  
-Defines the structure and required fields for SC4LE page templates (programme, service, insight, case study, etc.).
-
----
-
-## 5. Core Standard Files
-
-### **5.1 operating-model.md**  
-Defines the SC4LE Operating Model.
-
-### **5.2 shared-principles.md**  
-Defines the SC4LE Shared Principles.
+- `governance-templates.md`  
+- `website-ia.md`  
+- `governance-standard.md`  
 
 ---
 
-## 6. How the Meta Layer Works Together
+## 3. Meta‑Layer Index (Authoritative List of All Meta Files)
 
-The meta layer is designed as an interconnected governance system:
-
-- **Standard Governance** defines how SC4LE evolves.  
-- **Content Governance** ensures consistency across all written content.  
-- **Diagram Governance** protects the visual integrity of the model.  
-- **Brand Governance** protects the SC4LE identity.  
-- **Messaging Governance** ensures SC4LE speaks with one voice.  
-- **Template Governance** ensures structural consistency.  
-- **Website Content Matrix** ensures the website is coherent and aligned.  
-- **Page Templates** ensure consistent page creation.  
-- **Operating Model & Shared Principles** are the foundation everything aligns to.
-
-Each file references the others to prevent drift and ensure coherence.
+Below is the complete, governed list of meta‑layer files, grouped by purpose.
 
 ---
 
-## 7. Governance Workflow
+### **3.1 Core Governance Files**
 
-All meta files follow the SC4LE governance workflow:
-
-1. Draft  
-2. Initial Review (Editor)  
-3. Classification (minor / moderate / major)  
-4. Approval  
-5. Integration  
-6. Versioning  
-7. Publication  
-
-Major changes require **SSB unanimous approval**.
+| File | Purpose |
+|------|---------|
+| **governance-standard.md** | Governs the SC4LE Standard — versioning, approvals, stewardship, evolution. |
+| **governance-content.md** | Governs all written content — structure, alignment, quality, versioning. |
+| **governance-messaging.md** | Governs naming, tone of voice, terminology, value propositions, messaging rules. |
+| **governance-brand.md** | Governs visual identity — logo, colour palette, typography, tone of voice. |
+| **governance-diagrams.md** | Governs diagrams — structure, styling, accuracy, versioning. |
+| **governance-templates.md** | Governs templates and schemas — structure, metadata, layout rules. |
 
 ---
 
-## 8. Contact
+### **3.2 Structural Framework Files**
 
-For meta governance queries:  
-**meta@sc4le.co.uk**  
+| File | Purpose |
+|------|---------|
+| **page-templates.md** | Defines governed page templates for services, programmes, operating model, insights, value propositions. |
+| **website-content-matrix.md** | Defines what content goes where — the governed placement matrix for all website pages. |
+| **website-ia.md** | Defines the hierarchical structure of the SC4LE website — navigation, categories, relationships. |
+| **website-publishing-playbook.md** | Defines the governed workflow for drafting, reviewing, approving, and publishing content. |
+
+---
+
+### **3.3 Messaging & Language System Files**
+
+| File | Purpose |
+|------|---------|
+| **messaging-matrix.md** | The governed language system — naming conventions, terminology, value messaging, usage rules. |
+
+---
+
+### **3.4 Meta‑Layer Overview**
+
+| File | Purpose |
+|------|---------|
+| **README.md** | Overview of the meta layer — purpose, structure, and how to use the governed files. |
+
+---
+
+## 4. Golden Source Relationships
+
+The meta layer governs how all SC4LE artefacts relate to the golden source:
+
+- SC4LE Operating Model  
+- SC4LE Shared Principles  
+- SC4LE Narrative Architecture  
+- SC4LE Federated Governance Standard  
+- SC4LE Value Proposition Framework  
+- SC4LE Service Definition Schema  
+- SC4LE Page Template Schema  
+
+Every meta file enforces alignment with these golden sources.
+
+---
+
+## 5. How to Use the Meta Layer
+
+Use this meta layer to:
+
+- understand how SC4LE is governed  
+- maintain consistency across all artefacts  
+- onboard contributors  
+- ensure changes follow the correct approval workflow  
+- locate the correct file for updates  
+- maintain structural and messaging coherence  
+
+---
+
+## 6. Versioning
+
+The meta layer follows **semantic versioning**:
+
+- **MAJOR** — structural redesign or new governance domains  
+- **MINOR** — new files, new sections, or new rules  
+- **PATCH** — corrections, refinements, or clarifications  
+
+Current version: **1.1.0**
+
+---
+
+## 7. Contact
+
+For meta‑layer governance queries:  
+**governance@sc4le.co.uk**  
 **SC4LE Limited**
+
